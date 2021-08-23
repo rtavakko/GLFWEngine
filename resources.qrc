@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GLSL/passFragment.glsl</file>
+        <file>GLSL/passVertex.glsl</file>
+        <file>GLSL/triangleFragment.glsl</file>
+        <file>GLSL/triangleVertex.glsl</file>
+    </qresource>
+</RCC>
